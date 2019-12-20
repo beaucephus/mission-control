@@ -1,3 +1,15 @@
+## To Run Mission Control
+
+### Environment
+
+- Ruby 2.6.4
+
+### Running The Game
+
+```
+ruby mission_control.rb
+```
+
 ## Mission Control
 
 We would like to thank you for taking the time to complete this assignment. We believe this to be an effective way of allowing you to show us your skills, on your own time, without the pressure of someone looking over your shoulder. Your code will be used to help us decide if we'd like to proceed with the interview process. Please understand that completing this assignment doesn't guarantee follow up interviews. We will keep you posted either way. Reach out to point of contact at Doximity with any questions.
